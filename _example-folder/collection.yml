@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - H@ola.md
       - First Page.md
       - folder-page.md
       - example-subfolder/.keep
