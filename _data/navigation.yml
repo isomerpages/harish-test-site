@@ -8,3 +8,5 @@ links:
     collection: example-folder
   - title: Top Level Folder
     collection: top-level-folder
+  - title: Menu Title
+    resource_room: true
