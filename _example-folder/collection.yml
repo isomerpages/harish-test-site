@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Sample Folder/H@ola.md
       - Sample Folder/Example Title.md
       - Sample Folder/.keep
       - PageSettings###Modal.md
