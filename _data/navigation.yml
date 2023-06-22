@@ -10,3 +10,8 @@ links:
     collection: top-level-folder
   - title: Menu Title
     resource_room: true
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
