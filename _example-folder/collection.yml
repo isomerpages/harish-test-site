@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sample Folder/.keep
-      - Example Title.md
       - PageSettings###Modal.md
       - H@ola.md
       - First Page.md
