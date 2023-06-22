@@ -1,4 +1,5 @@
 collections:
   top-level-folder:
     output: true
-    order: []
+    order:
+      - hola22.md
