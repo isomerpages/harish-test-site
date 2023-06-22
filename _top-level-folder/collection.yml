@@ -1,0 +1,4 @@
+collections:
+  top-level-folder:
+    output: true
+    order: []
