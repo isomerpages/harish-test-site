@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use! :)
 sections:
   - hero:
-      title: Hero title2
+      title: Hero title3
       subtitle: Hero subtitle2
       background: /images/hero-banner.png
       button: Contact Us2
